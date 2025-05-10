@@ -25,4 +25,4 @@ https://github.com/user-attachments/assets/6805576a-63bb-4d59-aff5-01c6cf8fb6ca
 ---
 
 ## 🛠️ Tech Stack
-- **Python**
+**Language**: Python
